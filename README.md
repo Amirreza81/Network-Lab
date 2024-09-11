@@ -1,2 +1,3 @@
 # Network-Lab
-Reports and projects from the Network Lab course (CE-416) at Sharif University of Technology
+Reports and projects from the Network Lab course (CE-416) at Sharif University of Technology,
+showcasing practical implementations and experiments in computer networks.
