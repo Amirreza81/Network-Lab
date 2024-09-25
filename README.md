@@ -14,3 +14,8 @@ This repository contains reports and project implementations developed as part o
 > * **[Introduction to Routing Protocol BGP](https://github.com/Amirreza81/Network-Lab/tree/main/AZ9)**
 > * **[Introduction to VLAN](https://github.com/Amirreza81/Network-Lab/tree/main/AZ10)**
 
+## **Memebers**
+We were a team of three members consisting of the following individuals:
+- [AmirReza Azari](https://github.com/Amirreza81)
+- [BozorgMehr Zia](https://github.com/BozorgmehrZia)
+- [AmirMohammad Saleh](https://github.com/amirmohammad2001)
