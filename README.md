@@ -20,8 +20,8 @@ Cisco Packet Tracer was used throughout the course to simulate network configura
 ## **Team Members**
 We were a team of three members consisting of the following individuals:
 - [AmirReza Azari](https://github.com/Amirreza81)
-- [BozorgMehr Zia](https://github.com/BozorgmehrZia)
-- [AmirMohammad Saleh](https://github.com/amirmohammad2001)
+- BozorgMehr Zia
+- AmirMohammad Saleh
 
 ## **Contact Information**
 If you have any questions or would like to get in touch, feel free to reach out via [email](amirrezaazari1381@gmail.com).
